@@ -4,7 +4,7 @@
     "slug": "your-app-slug",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "C:\Users\sairo\Desktop\Myprgms\myGit\ToDoList-App\assets\icon.png", 
+    "icon": "C:/Users/sairo/Desktop/Myprgms/myGit/ToDoList-App/assets/icon.png", 
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/splash.png",
