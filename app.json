@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "todolist-app",
-    "slug": "your-app-slug",
+    "name": "To Do List App",
+    "slug": "todolist-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "C:/Users/sairo/Desktop/Myprgms/myGit/ToDoList-App/assets/icon.png",
+    "icon": "./assets/icon.png", 
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "C:/Users/sairo/Desktop/Myprgms/myGit/ToDoList-App/assets/splash.png",
+      "image": "./assets/splash.png", 
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -19,13 +19,14 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "C:/Users/sairo/Desktop/Myprgms/myGit/ToDoList-App/assets/adaptive-icon.png",
+        "foregroundImage": "./assets/adaptive-icon.png", 
         "backgroundColor": "#ffffff"
       },
-      "package": "com.yourcompany.yourappname"
+      "package": "com.sairohit.todolistapp"
+      
     },
     "web": {
-      "favicon": "C:/Users/sairo/Desktop/Myprgms/myGit/ToDoList-App/assets/favicon.png"
+      "favicon": "./assets/favicon.png" 
     },
     "experiments": {
       "reactCanary": true
