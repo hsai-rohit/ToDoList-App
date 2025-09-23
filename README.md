@@ -25,6 +25,7 @@ This project is a simple and intuitive mobile application for managing daily tas
 │   ├── adaptive-icon.png
 │   ├── favicon.png
 │   ├── icon.png
+|   ├── screenshort.jpg
 │   └── splash.png
 ├── components/
 │   └── TaskItem.js
