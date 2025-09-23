@@ -84,4 +84,4 @@ This command will open a browser window with the Expo Dev Tools and display a QR
   - In your terminal (where expo start is running), press i to open the app on your iOS simulator.
 
 ## 📸 Screenshot
-![Screenshot of the ToDoList app](assets/screenshot.png)
+![Screenshot of the ToDoList app](assets/screenshot.jpg)
