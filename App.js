@@ -78,7 +78,7 @@ export default function App() {
         initialRouteName="TaskList"
         screenOptions={{
           headerStyle: {
-            backgroundColor: '#a43820', // Aesthetic Header background color (Slate Blue)
+            backgroundColor: '#a43820', // Aesthetic Header background color
           },
           headerTintColor: '#fff', // Header text color
           headerTitleStyle: {
