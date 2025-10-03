@@ -24,7 +24,7 @@ This project is a simple and intuitive mobile application for managing daily tas
 ├── assets/
 │   ├── adaptive-icon.png
 │   ├── favicon.png
-│   ├── icon.png
+│   ├── my_icon.png
 │   ├── screenshort.jpg
 │   └── splash.png
 ├── components/
