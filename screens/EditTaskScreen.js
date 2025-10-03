@@ -44,7 +44,7 @@ export default function EditTaskScreen({ navigation, route, updateTask, tasks })
         onChangeText={setCurrentTaskTitle}
         placeholder="Enter new task title"
       />
-      <Button title="Save Changes" onPress={handleSave} />
+      <Button title="Save Changes" onPress={handleSave} color='#a43820'/>
     </View>
   );
 }
